@@ -13,7 +13,9 @@ This project uses an Arduino Uno for reading heart rate from AD8232 shield and s
 - Upload `heartMonitorAtmega328p.c` to the Arduino board using *Arduino IDE*, *PlatformIO* or other IDE.
 - Upload `heartMonitor.py` to the Raspberry and run
 
+
 ## Attention:
+ - **No need to power the Arduino board** 
  - I used Python 3
  - Maybe you should change the server configuration for sending to your one
  
